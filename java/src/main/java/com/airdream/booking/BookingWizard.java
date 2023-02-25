@@ -1,5 +1,6 @@
 package com.airdream.booking;
 
+import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -21,7 +22,7 @@ public class BookingWizard {
         new BookingWizard().start();
     }
 
-    private void start() {
+    void start() {
         currentStep = 0;
         while (currentStep < 9) {
             wizardStep();

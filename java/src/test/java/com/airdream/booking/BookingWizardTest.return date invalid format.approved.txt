@@ -1,0 +1,19 @@
+Hello, welcome to Airdream, the airline of your dreams
+What kind of flight do you want to book?
+[1] outward
+[2] round trip
+Select your departure city
+Select your arrival city
+Select your departure date (DD/MM/YYYY)
+Select your return date (DD/MM/YYYY)
+Invalid input. Please follow the instructions
+Select your return date (DD/MM/YYYY)
+Please select the number of passengers
+Please enter the passenger number 1 first name and last name
+Your booking summary
+Flight 1: Departure at Fri Jul 26 00:00:00 CEST 2024 from Frankfurt and arrival in London
+Flight 2: Departure at Thu Sep 26 00:00:00 CEST 2024 from London and arrival in Frankfurt
+Passengers:
+Sue Morrison
+Do you confirm? [Yes/No]
+Thank you for your booking, we wish you an excellent trip to London
